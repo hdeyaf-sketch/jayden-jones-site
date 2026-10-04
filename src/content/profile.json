@@ -1,0 +1,325 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "jayden-jones",
+  "name": {
+    "first": "Jayden",
+    "last": "Jones",
+    "full": "Jayden Jones",
+    "preferred": "Jayden"
+  },
+  "tagline": "Built for the bend and the baton.",
+  "headline": "Texas Track & Field · 200m · 100m · 4x100m",
+  "eventGroup": "sprints",
+  "events": [
+    "200m",
+    "100m",
+    "60m",
+    "4x100m relay",
+    "4x400m relay"
+  ],
+  "hometown": "League City, Texas",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Health Promotion & Behavioral Sciences",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "jayjonesbball05@icloud.com"
+  },
+  "bio": {
+    "short": "Jayden Jones is a Texas sprinter from League City, a two-time Conference USA indoor 200m champion and a 4x100m All-American at two schools. A Health Promotion & Behavioral Sciences major, he was a 2026 Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Jayden Jones does his best work when titles and relay spots are on the line. At Sam Houston he won the Conference USA indoor 200m title as a freshman in 2024, defended it in 2025, and ran on a 4x100m that reached the NCAA Championships and earned Second Team All-America honors. After transferring to Texas he opened his first outdoor season by winning both the 100m and the 200m at the UTSA Invitational. He then helped the Longhorns' 4x100m qualify for nationals and earn Second Team All-America honors again in 2026.",
+      "Jones grew up in League City, between Houston and Galveston, and sprinted for Clear Creek High School, where he reached the 2023 UIL 6A Region III 100m final. He began college at Sam Houston, earning Conference USA Freshman of the Week honors in his first indoor season, then moved to Texas, which his official bio describes as a dream school. He studies Health Promotion & Behavioral Sciences and has been named to the USTFCCCA All-Academic Team and the First-Year SEC Academic Honor Roll.",
+      "Relay sprinting is precise teamwork at full speed: four runners, three exchanges and no room for a missed signal. Jones has earned All-America honors on relays at two schools by getting those details right. As a 2026 Project Manager Intern at Feniex Industries, the Austin manufacturer of emergency-vehicle lighting and electronics, he brought that mindset to coordinating tasks between teams, tracking schedules and keeping information moving cleanly from one group to the next. His studies in health promotion add an understanding of how people build habits and change routines."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Conference USA indoor 200m titles",
+      "value": "2x",
+      "note": "Sam Houston, 2024 and 2025"
+    },
+    {
+      "label": "4x100m Second Team All-American",
+      "value": "2x",
+      "note": "Sam Houston 2025, Texas 2026"
+    },
+    {
+      "label": "200m best",
+      "value": "20.41",
+      "note": "NCAA West First Round, 2025"
+    },
+    {
+      "label": "Texas all-time 60m list",
+      "value": "No. 10",
+      "note": "6.68 at the Corky Classic, 2026"
+    }
+  ],
+  "prs": [
+    {
+      "event": "200m",
+      "mark": "20.41",
+      "meet": "NCAA West First Round (Sam Houston)",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "100m",
+      "mark": "10.26",
+      "meet": "Conference USA Outdoor Championships (Sam Houston)",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "60m",
+      "mark": "6.66",
+      "meet": "Jarvis Scott Invite (Sam Houston)",
+      "year": "2025",
+      "indoor": true
+    },
+    {
+      "event": "200m",
+      "mark": "20.73",
+      "meet": "Conference USA Indoor Championships (Sam Houston)",
+      "year": "2025",
+      "indoor": true
+    },
+    {
+      "event": "4x100m relay",
+      "mark": "39.03",
+      "meet": "NCAA Championships (Sam Houston 2025; Texas 2026)",
+      "year": "2025, 2026",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2023",
+      "title": "Regional finalist",
+      "detail": "Reached the UIL 6A Region III 100m final for Clear Creek High School."
+    },
+    {
+      "year": "2024",
+      "title": "Conference USA indoor 200m champion",
+      "detail": "Won the title as a Sam Houston freshman in 20.88 and was named C-USA Freshman of the Week."
+    },
+    {
+      "year": "2025",
+      "title": "Repeat champion and All-American",
+      "detail": "Defended his C-USA indoor 200m title (20.73), ran a 20.41 200m and helped Sam Houston's 4x100m earn Second Team All-America honors at nationals."
+    },
+    {
+      "year": "2026",
+      "title": "Longhorn debut season",
+      "detail": "Won the 100m and 200m at the UTSA Invitational and the 100m at the Texas Invitational, and earned Second Team All-America honors on the Texas 4x100m."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Coordinated tasks, schedules and handoffs between teams at the Austin-based maker of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "USTFCCCA Outdoor Second Team All-American, 4x100m (Texas)",
+      "year": "2026"
+    },
+    {
+      "title": "USTFCCCA Outdoor Second Team All-American, 4x100m (Sam Houston)",
+      "year": "2025"
+    },
+    {
+      "title": "Conference USA Indoor Champion, 200m",
+      "year": "2024, 2025"
+    },
+    {
+      "title": "Conference USA Freshman of the Week",
+      "year": "2024"
+    },
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2026"
+    },
+    {
+      "title": "First-Year SEC Academic Honor Roll",
+      "year": "2025-26"
+    },
+    {
+      "title": "C-USA Honor Roll"
+    }
+  ],
+  "inTheirWords": [],
+  "press": [
+    {
+      "title": "Track & Field caps UTSA Invitational with strong final-day performances",
+      "outlet": "Texas Athletics",
+      "date": "2026-03-21",
+      "url": "https://texaslonghorns.com/news/2026/3/21/track-field-cross-country-track-field-caps-utsa-invitational-with-strong-final-day-performances"
+    },
+    {
+      "title": "Men's Track & Field advances two to finals on opening day of NCAA Championships",
+      "outlet": "Texas Athletics",
+      "date": "2026-06-10",
+      "url": "https://texaslonghorns.com/news/2026/6/10/track-field-cross-country-mens-track-field-advances-two-to-finals-on-opening-day-of-ncaa-championships"
+    },
+    {
+      "title": "Kats earn medals at CUSA Indoor meet",
+      "outlet": "Sam Houston Athletics",
+      "date": "2025-03-02",
+      "url": "https://gobearkats.com/news/2025/3/2/mens-track-field-kats-earn-medals-at-cusa-indoor-meet.aspx"
+    },
+    {
+      "title": "Men's relay qualifies for nationals",
+      "outlet": "Sam Houston Athletics",
+      "date": "2025-06-03",
+      "url": "https://gobearkats.com/news/2025/6/3/mens-track-field-mens-relay-qualifies-for-nationals.aspx"
+    },
+    {
+      "title": "Relay team earns All-America honors",
+      "outlet": "Sam Houston Athletics",
+      "date": "2025-06-19",
+      "url": "https://gobearkats.com/news/2025/6/19/mens-track-field-relay-team-earns-all-america-honors.aspx"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Championship timing",
+      "detail": "Won back-to-back Conference USA indoor 200m titles, the first as a freshman."
+    },
+    {
+      "title": "Relay trust",
+      "detail": "Earned 4x100m All-America honors with two different relay teams in consecutive seasons."
+    },
+    {
+      "title": "Quick adaptation",
+      "detail": "Moved up to the SEC and won both short sprints in his first outdoor meet as a Longhorn."
+    },
+    {
+      "title": "Steady growth",
+      "detail": "Cut his 200m from 21.81 in high school to 20.41 in college."
+    }
+  ],
+  "resume": {
+    "summary": "Health Promotion & Behavioral Sciences major and Texas Track & Field sprinter; two-time Conference USA indoor 200m champion and 4x100m All-American at two schools. Project Manager Intern at Feniex Industries supporting team coordination, schedule tracking and process documentation.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Coordinated project tasks with engineering, production and sales teams at an American manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Maintained project schedules and status trackers, following up with owners on open items and upcoming deadlines.",
+          "Wrote and updated process documentation and step-by-step guides to support consistent team workflows.",
+          "Applied Claude and other AI tools in daily work to summarize information, draft documents and organize project details."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's degree, Health Promotion & Behavioral Sciences",
+        "dates": "2025 – Expected May 2027",
+        "details": [
+          "USTFCCCA All-Academic Team (2026)",
+          "First-Year SEC Academic Honor Roll (2025-26)"
+        ]
+      },
+      {
+        "school": "Sam Houston State University",
+        "degree": "Transferred to UT Austin",
+        "dates": "2023 – 2025",
+        "details": [
+          "C-USA Honor Roll"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Sprinter (60m, 100m, 200m, 4x100m)",
+        "org": "University of Texas Track & Field (SEC)",
+        "dates": "2025 – Present",
+        "bullets": [
+          "Earned USTFCCCA Second Team All-America honors on the 4x100m relay, placing 13th at the 2026 NCAA Championships (39.03).",
+          "Won the 100m and 200m at the 2026 UTSA Invitational and the 100m at the 2026 Texas Invitational.",
+          "Ran 6.68 in the 60m at the 2026 Corky Classic, No. 10 on the Texas all-time list."
+        ]
+      },
+      {
+        "role": "Sprinter",
+        "org": "Sam Houston Track & Field (Conference USA)",
+        "dates": "2023 – 2025",
+        "bullets": [
+          "Won Conference USA indoor 200m titles in 2024 and 2025; C-USA outdoor 200m runner-up in 2025.",
+          "Earned Second Team All-America honors on the 4x100m relay at the 2025 NCAA Championships."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Schedule & Status Tracking",
+        "Team Communication",
+        "Process Documentation",
+        "Cross-Functional Collaboration",
+        "Health Promotion",
+        "Behavior Change Principles"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "USTFCCCA Outdoor Second Team All-American, 4x100m",
+        "year": "2025, 2026"
+      },
+      {
+        "title": "Conference USA Indoor Champion, 200m",
+        "year": "2024, 2025"
+      },
+      {
+        "title": "USTFCCCA All-Academic Team",
+        "year": "2026"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Jayden is the guy you want on a relay: fast, prepared and completely dependable at the exchange. He showed that same reliability as an intern, picking up work from one team and passing it cleanly to the next.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.48,
+      "y": 0.39,
+      "zoom": 1.28
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg"
+    ],
+    "actionAlt": [
+      "Jayden Jones, second from left, with Sam Houston's 4x100m relay after qualifying for the 2025 NCAA Championships"
+    ]
+  },
+  "photoCredits": [
+    "Sam Houston Athletics",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://jayden-jones.vercel.app"
+  },
+  "seo": {
+    "title": "Jayden Jones | Texas Track & Field · Project Management",
+    "description": "Jayden Jones: Texas sprinter, two-time Conference USA indoor 200m champion and 4x100m All-American. 2026 Project Manager Intern at Feniex Industries."
+  },
+  "noindex": true
+}
